@@ -1,4 +1,5 @@
-# oso_plantlink
+# Modified DTH for OsoTech Plantlink Sensors
+
 This is a SmartThings DTH for Oso Plantlink soil moisture sensors.  It is based on the Plantlink 2015 OsoTech DTH. 
 
 I added Capability "battery" and Capability "water", so that I could better monitor the devices using SmartTiles and CoRE.  
